@@ -16,7 +16,7 @@ MidiboxNG Manual (for after build):
 http://www.ucapps.de/midibox_ng_manual_fs.html
 http://www.ucapps.de/midibox_ng_manual_src.html
 
-Things to get:
+Things to get (need to make a part list):
 http://www.adafruit.com/product/1341
 
 Chip available from class (cant use): http://www.nxp.com/products/microcontrollers/product_series/lpc1100/LPC1114FN28.html#downloads
