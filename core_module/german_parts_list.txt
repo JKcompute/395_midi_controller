@@ -1,0 +1,73 @@
+To english readers: since I only have experience with german mailorder 
+distributors, this list is mainly dedicated for users from Germany
+
+------------------------------------------------------------------------------
+
+MBHP Core LPC17 Orderlist (last update: 06-2011)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+All prices in EUR (Euro)
+Exchange rates: see http://www.xe.com
+
+at http://www.reichelt.de
++----------------------------------------------+-------+--------------------+-------+--------+
+| Description                                  | Qty   | Part #             | Price | Total  |
++----------------------------------------------+-------+--------------------+-------+--------+
+| Voltage Regulator 7805                       |     1 | uA 7805            |  0.17 |   0.17 |
+| Voltage Regulator LF33                       |     1 | LF 33 CV           |  0.78 |   0.78 |
+| Optocoupler 6N138                            |     2 | 6N 138             |  0.50 |   1.00 |
+| IC-Sockets for Optocoupler                   |     2 | GS 8               |  0.04 |   0.08 |
+| Diode 1N4148                                 |     3 | 1N 4148            |  0.02 |   0.06 |
+| Transistor BC337                             |     1 | BC 337-16          |  0.06 |   0.06 |
+| 74HC595                                      |     1 | 74HC 595           |  0.30 |   0.30 |
+| IC-Socket for 74HC595                        |     1 | GS 16              |  0.04 |   0.04 |
+| 74HCT541                                     |     1 | 74HCT 541          |  0.20 |   0.20 |
+| IC-Socket for 74HCT541                       |     1 | GS 20              |  0.04 |   0.04 |
+| Ceramic Cap 100 nF                           |     4 | Z5U-2,5 100n       |  0.06 |   0.24 |
+| Ceramic Cap 330 nF                           |     1 | MKS-2 330n         |  0.17 |   0.17 |
+| Polarised Capacitor 47 uF                    |     1 | rad 47/25          |  0.04 |   0.04 |
+| Polarised Capacitor 100 uF                   |     1 | rad 100/16         |  0.04 |   0.04 |
+| Polarised Capacitor 2200 uF                  |     1 | rad 2.200/16       |  0.27 |   0.27 |
+| Resistor 10 kOhm                             |     1 | 1/4W 10k           |  0.03 |   0.03 |
+| Resistor 4.7 kOhm                            |     2 | 1/4W 4.7k          |  0.03 |   0.06 |
+| Resistor 2.2 kOhm                            |     4 | 1/4W 2.2k          |  0.03 |   0.12 |
+| Resistor 1 kOhm                              |     4 | 1/4W 1.0k          |  0.03 |   0.12 |
+| Resistor 220 Ohm                             |     2 | 1/4W 220           |  0.03 |   0.06 |
+| Resistor 47 Ohm                              |     4 | 1/4W 47            |  0.03 |   0.12 |
+| Resistor Network 4*10 kOhm (1 common pin)    |     1 | SIL 5-4 10K        |  0.08 |   0.08 |
+| Resistor Network 4*1 kOhm (1 common pin)     |     1 | SIL 5-4 1,0K       |  0.08 |   0.08 |
+| TrimmPot 10 k                                |     2 | PT 6-L 10K         |  0.22 |   0.44 |
+| Rectifier                                    |     1 | B80C800RUND        |  0.18 |   0.18 |
+| USB Socket B-Type for PCB mounting           |     1 | USB BW             |  0.21 |   0.21 |
+| MIDI sockets for PCB mounting                |     4 | MABP 5S            |  0.60 |   2.40 |
+| USB cable (High Speed)                       |     1 | AK 672/HS-2,0      |  0.98 |   0.98 |
+| 2x5 DIL Headers (German: "Wannenstecker")    |     7 | WSL 10G            |  0.08 |   0.54 |
+| 2x5 DIL Sockets (German: "Pfostenbuchse")    |     7 | PFL 10             |  0.08 |   0.54 |
+| 2x8 DIL Headers (German: "Wannenstecker")    |     2 | WSL 16G            |  0.07 |   0.14 |
+| 2x8 DIL Sockets (German: "Pfostenbuchse")    |     2 | PFL 16             |  0.09 |   0.18 |
+| 2x10 DIL Header (German: "Wannenstecker")    |     1 | WSL 20G            |  0.07 |   0.07 |
+| 1-row SIL Headers (ca. 100 pins required)    |     3 | SL 1X40G 2,54      |  0.18 |   0.54 |
+| 2-row SIL Headers (2x6 pins required)        |     1 | SL 2X10G 2,54      |  0.07 |   0.07 |
+| 1-row sockets for LPCXPRESSO (optional)      |     5 | BL 1X20G 2,54      |  0.67 |   3.35 |
+| Jumpers                                      |     3 | JUMPER 2,54GL RT   |  0.05 |   0.15 |
+| Ribbon cable 3 meters                        |     3 | AWG 28-16G         |  0.66 |   1.98 |
++----------------------------------------------+-------+--------------------+-------+--------+
+Note 1: the ribbon cable is listed for people who don't have alread cable at home ;-)
+Note 2: DIL sockets for interconnection to other modules. It makes sense to order more
+        (e.g. 10 pieces)
+Note 3: if you don't already own MIDI cables, just build them yourself: for each cable
+        order two 5 pol DIN plugs and cable - sometimes called HIFI cable
+Note 4: ...or buy MIDI cables from Reichelt: AVK121 (2.5m, EUR 0.67) or AVK192 (5m, EUR 1.10)
+Note 5: outside europe the BC337 is hard to find, the 2N3904 is a good replacement
+        But note that the outer pins (E and C) are exchanged - you have to upturn the
+        transistor to get the E, B, C pin matching with the PCB
+
+Note 6: Reichelt doesn't sell the LPCXPRESSO module
+        Shops are listed under http://www.ucapps.de/mbhp_core_lpc17.html
+
+Note 7: Reichelt doesn't sell the MagJack
+        There are several hobbyist distributors for these components, e.g.
+        http://www.csd-electronics.de
+          o MagJack 8 polig print 4xLED (#015-54085) for 3.49 EUR
+
+tk@midibox.org
