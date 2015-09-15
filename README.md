@@ -3,7 +3,7 @@ Based on MIDIbox MIOS, we are going to create a custom MIDI controller!
 
 Fall 2015 ECE395 class project.  
 
-LINKS: 
+##### LINKS: 
 MIOS Homepage: http://www.ucapps.de/mios.html
 
 Core (brain) Info: http://www.ucapps.de/mbhp_core_lpc17.html
