@@ -1,0 +1,5 @@
+Board production: 
+
+see guidelines on ECE electronics shop site.  Must match specs.  
+
+Drill file must be in Excellon format
