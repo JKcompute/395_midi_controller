@@ -1,0 +1,117 @@
+Net Status Report
+Filename     : C:\ece395_midi\core_module\mbhp_core_lpc17_pcb_v1_0\MBHP_CORE_LPC176x.PcbDoc
+Date         : 10/20/2015
+Time         : 4:34:16 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    3.3VCC, Signal Layers Only, 277.1697mm
+    5VCC, Signal Layers Only, 428.259mm
+    B, Signal Layers Only, 28.6822mm
+    C, Signal Layers Only, 36.3525mm
+    GND, Signal Layers Only, 0mm
+    MISO, Signal Layers Only, 17.2434mm
+    MISO1, Signal Layers Only, 8.5694mm
+    MOSI, Signal Layers Only, 26.402mm
+    MOSI1, Signal Layers Only, 31.0985mm
+    NetC8_1, Signal Layers Only, 24.0765mm
+    NetD2_1, Signal Layers Only, 23.8513mm
+    NetD2_2, Signal Layers Only, 8.4029mm
+    NetD3_1, Signal Layers Only, 26.8066mm
+    NetD3_2, Signal Layers Only, 9.4995mm
+    NetEthernet_11, Signal Layers Only, 30.0111mm
+    NetEthernet_9, Signal Layers Only, 25.968mm
+    NetIC1_12, Signal Layers Only, 11.1154mm
+    NetIC1_13, Signal Layers Only, 8.7024mm
+    NetIC1_14, Signal Layers Only, 11.3103mm
+    NetIC1_16, Signal Layers Only, 19.7835mm
+    NetIC1_17, Signal Layers Only, 17.2435mm
+    NetIC1_18, Signal Layers Only, 19.7463mm
+    NetIC4_7, Signal Layers Only, 5.1751mm
+    NetIC5_7, Signal Layers Only, 5.6677mm
+    NetJ12_1, Signal Layers Only, 14.574mm
+    NetJ12_3, Signal Layers Only, 17.8088mm
+    NetJ13_1, Signal Layers Only, 18.6747mm
+    NetJ17_2, Signal Layers Only, 4.1872mm
+    NetJ1_1, Signal Layers Only, 15.6789mm
+    NetJ1_2, Signal Layers Only, 9.7572mm
+    NetJ20_1, Signal Layers Only, 15.6738mm
+    NetJ20_3, Signal Layers Only, 15.8006mm
+    NetJ21_1, Signal Layers Only, 22.6351mm
+    NetJ3_11, Signal Layers Only, 8.426mm
+    NetJ3_17, Signal Layers Only, 8.4102mm
+    NetJ3_19, Signal Layers Only, 8.4102mm
+    NetP1_3, Signal Layers Only, 11.1685mm
+    NetR13_2, Signal Layers Only, 7.6361mm
+    P0.0, Signal Layers Only, 47.0443mm
+    P0.1, Signal Layers Only, 56.7905mm
+    P0.10, Signal Layers Only, 17.7809mm
+    P0.11, Signal Layers Only, 13.6064mm
+    P0.15, Signal Layers Only, 17.8523mm
+    P0.16, Signal Layers Only, 17.8523mm
+    P0.18, Signal Layers Only, 16.2162mm
+    P0.2, Signal Layers Only, 22.73mm
+    P0.21, Signal Layers Only, 40.4916mm
+    P0.23, Signal Layers Only, 11.73mm
+    P0.24, Signal Layers Only, 11.801mm
+    P0.25, Signal Layers Only, 11.73mm
+    P0.26, Signal Layers Only, 11.73mm
+    P0.27, Signal Layers Only, 19.168mm
+    P0.28, Signal Layers Only, 15.0679mm
+    P0.3, Signal Layers Only, 28.711mm
+    P0.4, Signal Layers Only, 59.1271mm
+    P0.5, Signal Layers Only, 48.2817mm
+    P0.6, Signal Layers Only, 12.9358mm
+    P0.7, Signal Layers Only, 12.9358mm
+    P0.9, Signal Layers Only, 10.913mm
+    P1.18, Signal Layers Only, 27.7706mm
+    P1.20, Signal Layers Only, 25.0714mm
+    P1.21, Signal Layers Only, 24.8531mm
+    P1.22, Signal Layers Only, 24.7598mm
+    P1.23, Signal Layers Only, 25.816mm
+    P1.24, Signal Layers Only, 36.0047mm
+    P1.25, Signal Layers Only, 27.7729mm
+    P1.26, Signal Layers Only, 26.2437mm
+    P1.27, Signal Layers Only, 52.8587mm
+    P1.28, Signal Layers Only, 53.3051mm
+    P1.29, Signal Layers Only, 66.1951mm
+    P1.30, Signal Layers Only, 23.7875mm
+    P1.31, Signal Layers Only, 23.8585mm
+    P2.0, Signal Layers Only, 37.9552mm
+    P2.1, Signal Layers Only, 48.2739mm
+    P2.10, Signal Layers Only, 0mm
+    P2.11, Signal Layers Only, 15.2442mm
+    P2.12, Signal Layers Only, 10.4425mm
+    P2.13, Signal Layers Only, 21.9306mm
+    P2.2, Signal Layers Only, 11.9697mm
+    P2.3, Signal Layers Only, 14.455mm
+    P2.4, Signal Layers Only, 10.9176mm
+    P2.5, Signal Layers Only, 13.4029mm
+    P2.6, Signal Layers Only, 9.8655mm
+    P2.7, Signal Layers Only, 13.1726mm
+    P2.8, Signal Layers Only, 10.6326mm
+    P3.25, Signal Layers Only, 51.5457mm
+    P3.26, Signal Layers Only, 60.2989mm
+    P4.29, Signal Layers Only, 23.5372mm
+    Q0, Signal Layers Only, 27.9716mm
+    Q1, Signal Layers Only, 23.0718mm
+    Q2, Signal Layers Only, 20.8967mm
+    Q3, Signal Layers Only, 23.0171mm
+    Q4, Signal Layers Only, 19.3309mm
+    Q5, Signal Layers Only, 21.8162mm
+    Q6, Signal Layers Only, 18.3434mm
+    Q7, Signal Layers Only, 59.0793mm
+    Q8, Signal Layers Only, 0mm
+    RD+, Signal Layers Only, 36.8147mm
+    RD-, Signal Layers Only, 36.8147mm
+    TCK, Signal Layers Only, 21.7991mm
+    TD+, Signal Layers Only, 39.8807mm
+    TD-, Signal Layers Only, 40.3236mm
+    TDI, Signal Layers Only, 26.0681mm
+    TDO, Signal Layers Only, 26.5591mm
+    TMS, Signal Layers Only, 18.207mm
+    TRST, Signal Layers Only, 28.5029mm
+    USB D+, Signal Layers Only, 111.0262mm
+    USB D-, Signal Layers Only, 118.0153mm
+    VCC, Signal Layers Only, 116.7487mm
+count : 109

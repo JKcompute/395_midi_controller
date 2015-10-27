@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\ece395_midi\core_module\Edited Board\MBHP_CORE_LPC176x-edit.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=9.06
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Polygon Clearance|Scope=Board|Minimum=15.00

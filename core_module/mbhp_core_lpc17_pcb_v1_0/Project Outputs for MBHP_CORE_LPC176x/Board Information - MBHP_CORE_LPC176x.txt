@@ -1,0 +1,28 @@
+Board Information Report
+Filename     : C:\ece395_midi\core_module\mbhp_core_lpc17_pcb_v1_0\MBHP_CORE_LPC176x.PcbDoc
+Date         : 10/26/2015
+Time         : 4:37:39 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 120mmx100mm
+    Components on board, 70
+count : 2
+
+Track Width, Count
+    0.05mm, 25
+    0.1mm, 8
+    0.127mm, 24
+    0.2mm, 379
+    0.23mm, 14666
+    0.254mm, 667
+    0.4mm, 466
+    0.5mm, 12
+    0.6mm, 145
+    0.8mm, 55
+    1mm, 10
+count : 11
+
+Net Track Width, Count
+    2452.8502mm, 109
+count : 1

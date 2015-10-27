@@ -1,0 +1,27 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: MBHP_CORE_LPC176x-edit.PcbDoc   10/26/2015  10:12:18 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MBHP_CORE_LPC176x-edit.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        13.78mil (0.35001mm)     Round          2                0.55 Inch (14.01 mm)
+T2        27.56mil (0.70002mm)     Round          13               8.44 Inch (214.34 mm)
+T3        30mil (0.762mm)          Round          4                0.60 Inch (15.24 mm)
+T4        33.46mil (0.84988mm)     Round          34               12.76 Inch (323.98 mm)
+T5        35.43mil (0.89992mm)     Round          318              53.43 Inch (1357.10 mm)
+T6        36.22mil (0.91999mm)     Round          4                0.26 Inch (6.50 mm)
+T7        39.37mil (1mm)           Round          12               10.97 Inch (278.57 mm)
+T8        43.31mil (1.10007mm)     Round          6                1.03 Inch (26.08 mm)
+T9        51.18mil (1.29997mm)     Round          36               8.39 Inch (213.08 mm)
+T10       62.99mil (1.59995mm)     Round          2                0.62 Inch (15.75 mm)
+T11       90.55mil (2.29997mm)     Round          2                0.47 Inch (12.04 mm)
+T12       39.37mil (1mm)           Round          1         NPTH   0.00 Inch (0.00 mm)
+T13       118.11mil (2.99999mm)    Round          12        NPTH   14.37 Inch (364.88 mm)
+T14       129.92mil (3.29997mm)    Round          2         NPTH   0.45 Inch (11.43 mm)
+---------------------------------------------------------------------------
+Totals                                            448              112.32 Inch (2853.01 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
